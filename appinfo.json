@@ -1,0 +1,24 @@
+{
+  "uuid": "d62bc467-8499-4ab5-8bf1-35ebf1ee8f08",
+  "shortName": "Presenter",
+  "longName": "Wrist Presenter",
+  "companyName": "Matthew Morey",
+  "versionCode": 2,
+  "versionLabel": "1.0.1",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+        {
+          "type": "png",
+          "name": "IMAGE_APP_ICON",
+          "file": "images/app_icon.png",
+          "menuIcon": true
+        }
+    ]
+  }
+}
