@@ -3,8 +3,8 @@
   "shortName": "Presenter",
   "longName": "Wrist Presenter",
   "companyName": "Matthew Morey",
-  "versionCode": 2,
-  "versionLabel": "1.0.1",
+  "versionCode": 3,
+  "versionLabel": "1.0.2",
   "watchapp": {
     "watchface": false
   },
